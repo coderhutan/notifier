@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Foundation Compass Template
 
 The easiest way to get started with Foundation + Compass.
@@ -27,3 +28,9 @@ If you'd like to upgrade to a newer version of Foundation down the road just run
 ```bash
 bower update
 ```
+=======
+notifier
+========
+
+An event and appointment notification by SMS system built on CodeIgniter using Twilio API.
+>>>>>>> 7b17f24f50bab7fc8adae080faedbdbce187f616
