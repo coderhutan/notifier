@@ -1,0 +1,568 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"na",
+				"nama_acara"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"tan",
+				"tanggal"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"blue",
+				"blue"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"grey",
+				"grey-line"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-top"
+			],
+			[
+				"lsit-s",
+				"list-style-type"
+			],
+			[
+				"bakc",
+				"background-size"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"Gr",
+				"Graphics2D"
+			],
+			[
+				"set",
+				"setVisible"
+			],
+			[
+				"Cir",
+				"CircleComponent"
+			],
+			[
+				"list-",
+				"list-n	list-style-type: none;"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgroun",
+				"background"
+			],
+			[
+				"list",
+				"list-n	list-style-type: none;"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": " ",
+			"settings":
+			{
+				"buffer_size": 1,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: add",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Irfan/AppData/Local/Temp/fz3temp-1/.htaccess 3",
+		"/C/Users/Irfan/AppData/Local/Temp/fz3temp-1/login.php",
+		"/C/Users/Irfan/AppData/Local/Temp/fz3temp-1/header.php",
+		"/E/Project/Coder Hutan/Tools.txt",
+		"/C/wamp/www/notifier/application/controllers/buatundangan.php",
+		"/C/wamp/www/notifier/application/controllers/sms.php",
+		"/C/Users/Irfan/AppData/Local/Temp/fz3temp-1/sms.php",
+		"/C/Users/Irfan/Downloads/notifier (1).sql",
+		"/C/Users/Irfan/AppData/Local/Temp/fz3temp-1/database.php",
+		"/C/Users/Irfan/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Users/Irfan/AppData/Local/Temp/fz3temp-1/.htaccess 2",
+		"/C/Users/Irfan/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Irfan/AppData/Local/Temp/fz3temp-1/index 2.php",
+		"/C/Users/Irfan/AppData/Local/Temp/fz3temp-1/config.php",
+		"/C/Users/Irfan/AppData/Local/Temp/fz3temp-1/routes.php",
+		"/C/wamp/www/notifier/application/controllers/home.php",
+		"/C/wamp/www/notifier/application/controllers/welcome.php",
+		"/C/wamp/www/notifier/.htaccess",
+		"/C/wamp/www/notifier/application/views/login.php",
+		"/C/wamp/www/notifier/application/views/home.php",
+		"/C/wamp/www/notifier/application/views/footer.php",
+		"/C/wamp/www/notifier/scss/app.scss",
+		"/D/Ruby/seminggu.json",
+		"/D/Ruby/sejam.json",
+		"/D/Ruby/sehari.json",
+		"/D/Ruby/notifier.rb",
+		"/C/wamp/www/notifier/application/config/database.php",
+		"/C/wamp/www/notifier/application/views/header.php",
+		"/C/wamp/www/notifier/application/views/buatundangan.php",
+		"/C/Users/Irfan/Documents/DropBok/web/application/controllers/buatundangan.php",
+		"/C/Users/Irfan/Documents/DropBok/web/application/views/buatundangan.php",
+		"/C/wamp/www/notifier/application/config/config.php",
+		"/C/wamp/www/notifier/application/controllers/logout.php",
+		"/C/wamp/www/notifier/config.rb",
+		"/C/wamp/www/notifier/application/config/autoload.php",
+		"/C/Users/Irfan/Documents/DropBok/web/application/views/home.php",
+		"/C/wamp/www/notif/sink.html",
+		"/C/wamp/www/notif/scss/app.scss",
+		"/C/wamp/www/notif/login.php",
+		"/C/wamp/www/notif/header.php",
+		"/C/wamp/www/notif/baru.php",
+		"/C/wamp/www/notif/footer.php",
+		"/C/wamp/www/notif/home.php",
+		"/C/wamp/www/sms/send_sms.php",
+		"/C/wamp/www/notif/scss/_settings.scss",
+		"/C/wamp/www/mandiga/wp-content/themes/mandiga/page.php",
+		"/C/wamp/www/notifier/application/config/routes.php",
+		"/C/wamp/www/facilicare/laporkan.php",
+		"/C/wamp/www/dpm/stylesheets/app.css",
+		"/C/Users/Irfan/Documents/web_dpm/index.html",
+		"/C/Users/Irfan/Documents/web_dpm/kotak-aspirasi.html",
+		"/C/Users/Irfan/Documents/web_dpm/news.html",
+		"/C/Users/Irfan/Documents/web_dpm/produk-hukum.html",
+		"/C/Users/Irfan/Documents/web_dpm/struktur.html",
+		"/C/Users/Irfan/Documents/web_dpm/galeri.html",
+		"/C/Users/Irfan/Documents/web_dpm/about-us.html",
+		"/C/wamp/www/dpm/scss/app.scss",
+		"/C/wamp/www/dpm/produk-hukum.html",
+		"/C/wamp/www/dpm/index.html",
+		"/C/wamp/www/dpm/struktur.html",
+		"/C/wamp/www/dpm/news.html",
+		"/C/wamp/www/dpm/galeri.html",
+		"/C/wamp/www/dpm/about-us.html",
+		"/C/wamp/www/dpm/kotak-aspirasi.html",
+		"/C/wamp/www/dpm/config.rb",
+		"/C/wamp/www/dpm/bower_components/foundation/scss/foundation/components/_grid.scss",
+		"/C/wamp/www/dpm/sink.html",
+		"/C/wamp/www/notifier/application/models/undangan.php",
+		"/C/wamp/www/notifier/application/views/undangan_baru.php",
+		"/C/wamp/www/notifier/application/controllers/notifier.php",
+		"/C/wamp/www/notifier/application/views/notifier.php",
+		"/D/Pascal/array_rekursif.pas",
+		"/D/Pascal/faktorial.pas",
+		"/D/Pascal/procedure.pas",
+		"/D/Pascal/procedure2.pas",
+		"/D/Pascal/fungsi.pas",
+		"/D/Shelf/Olympiad/Materi Ajar Irfan/Ngajar SMA 2 Bekasi/latihan",
+		"/D/Ruby/data.html",
+		"/D/Ruby/sms.rb",
+		"/C/wamp/www/data.html",
+		"/D/Ruby/map.json",
+		"/D/Ruby/listener.rb",
+		"/D/Ruby/teks.txt",
+		"/D/Ruby/sampah.rb",
+		"/D/Ruby/coba.html",
+		"/D/Ruby/iterate_string.rb",
+		"/E/Project/Notif/Undangan.txt",
+		"/C/wamp/www/sms/README.md",
+		"/D/Ruby/home.rb",
+		"/D/Ruby/sepatu.rb",
+		"/D/Shelf/Programming/Ruby/Source Codes/WCRS_SourceCode/Chap 2 - Website Scripting/rssParser.rb",
+		"/D/Ruby/rss.rb",
+		"/D/Shelf/Programming/Ruby/Source Codes/WCRS_SourceCode/Chap 2 - Website Scripting/stockGrep.rb",
+		"/D/Shelf/Programming/Ruby/Source Codes/WCRS_SourceCode/Chap 2 - Website Scripting/subnetCalc.rb",
+		"/D/Ruby/subnet.rb",
+		"/D/Shelf/Programming/Ruby/Source Codes/WCRS_SourceCode/Chap 7 - Servers and Scrapers/sms.rb",
+		"/D/Shelf/Programming/Ruby/Source Codes/WCRS_SourceCode/Chap 9 - Sorting Algorithm/quickSort.rb",
+		"/C/wamp/www/latihan/sass/ie.scss",
+		"/C/wamp/www/latihan/sass/print.scss",
+		"/C/wamp/www/latihan/sass/screen.scss",
+		"/C/wamp/www/latihan/index.html",
+		"/C/wamp/www/mandiga/wp-content/themes/mandiga/style.css",
+		"/C/wamp/www/mandiga/wp-content/themes/mandiga/page-home.php",
+		"/C/wamp/www/mandiga/wp-content/themes/mandiga/footer.php",
+		"/C/wamp/www/mandiga/wp-content/themes/mandiga/index.php",
+		"/C/wamp/www/mandiga/wp-content/themes/mandiga/single.php",
+		"/C/wamp/www/mandiga/wp-content/themes/mandiga/page-galeri-karya.php",
+		"/C/wamp/www/mandiga/wp-content/themes/mandiga/page-jenjang-pendidikan.php",
+		"/C/wamp/www/mandiga/wp-content/themes/mandiga/page-fasilitas.php",
+		"/C/wamp/www/balitrax/index.html",
+		"/C/wamp/www/mandiga/wp-content/themes/mandiga/page-galeri-kegiatan.php",
+		"/C/wamp/www/mandiga/wp-content/themes/mandiga/page-berita.php",
+		"/C/wamp/www/mandiga/wp-content/themes/mandiga/header.php",
+		"/C/wamp/www/mandiga/wp-content/themes/mandiga/page-galeri-17-agustus.php",
+		"/C/wamp/www/mandiga/wp-content/themes/mandiga/page-galeri-foto.php",
+		"/C/wamp/www/mandiga/wp-content/themes/mandiga/page-galeri-outing.php",
+		"/C/wamp/www/mandiga/wp-content/themes/mandiga/page-metode-pendidikan.php",
+		"/C/wamp/www/mandiga/wp-content/themes/mandiga/page-pendaftaran.php",
+		"/C/wamp/www/mandiga/wp-content/themes/mandiga/page-program-pendidikan.php",
+		"/C/wamp/www/mandiga/wp-content/themes/mandiga/page-profil-sejarah.php",
+		"/C/wamp/www/mandiga/wp-content/themes/mandiga/page-profil.php",
+		"/C/wamp/www/mandiga/wp-content/themes/mandiga/page-profil-pimpinan.php",
+		"/C/wamp/www/crossbricks/bower_components/foundation/scss/foundation/components/_global.scss",
+		"/C/wamp/www/crossbricks/scss/app.scss",
+		"/C/wamp/www/crossbricks/index.html",
+		"/C/wamp/www/fokus/index.html",
+		"/C/wamp/www/crossbricks/scss/_settings.scss",
+		"/C/Sites/blog/app/views/welcome/index.html.erb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"notifier",
+			"class=\"tiny button\"",
+			"jam",
+			"b",
+			"date",
+			"password",
+			"username",
+			"Username",
+			"username",
+			"DUMMY",
+			"drop",
+			"h3",
+			"h1",
+			"80",
+			"h2",
+			"99",
+			"h1",
+			"username",
+			"Username",
+			"username",
+			"ease",
+			"0.2",
+			"home",
+			"i",
+			"tanggal",
+			"show",
+			"tgl",
+			"jam",
+			"tgl",
+			"Thread",
+			"repeat",
+			"sampah",
+			"150px",
+			"160px",
+			"?>",
+			"h3",
+			"clearing",
+			"<li",
+			"clearing",
+			";\n",
+			"clearing",
+			"%;\n",
+			"500",
+			"slide",
+			"orbit",
+			"div",
+			" ?>",
+			"p ",
+			"belanja1",
+			"karya",
+			"thumb",
+			"hr",
+			"h3",
+			"hr",
+			"r>",
+			"h3-pendaftaran",
+			"<h3",
+			" class=\"item\"",
+			"class=\"item\" ",
+			"li>",
+			"<li",
+			"li",
+			"gallery",
+			"clearing",
+			"Fasilitas",
+			"fasilitas",
+			"fasilitas16",
+			">\"\"",
+			"\"\"",
+			"thumb2.",
+			"fasilitas.",
+			"thumb.",
+			"thumb",
+			"se",
+			"</p>",
+			"<p>",
+			"fittext",
+			"h1",
+			"intro",
+			"  Tim",
+			"orbit",
+			"11",
+			"position",
+			"left",
+			"blue",
+			"top-nav",
+			"z-inde",
+			"z-index",
+			"top-nav",
+			"post-title",
+			"header",
+			"kontak",
+			"{\n",
+			"h3",
+			"nav",
+			"contact",
+			"a ",
+			"h3",
+			"img/thumb2.jpg",
+			"img/thumb.jpg",
+			"img/thumb",
+			">\n",
+			"slider",
+			"gallery",
+			"body",
+			"ul",
+			"a ",
+			"a",
+			"h3",
+			"p ",
+			"h2",
+			"ul",
+			"h1",
+			"h2",
+			"h1",
+			"h2",
+			"right",
+			"1;",
+			"$grey-lin",
+			"p",
+			"3px",
+			"0px",
+			"right",
+			"left",
+			"small-5 ",
+			"p",
+			"12px",
+			"11px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "notifier.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
