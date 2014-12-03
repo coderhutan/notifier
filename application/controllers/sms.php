@@ -8,8 +8,8 @@ class Sms extends CI_Controller {
 		require "sms/Services/Twilio.php";
  
 	    // Step 2: set our AccountSid and AuthToken from www.twilio.com/user/account
-	    $AccountSid = "ACcd1c03f85413fb1cd326b9c65923d63e";
-	    $AuthToken = "1743c4df087019b850129ffa50fee0dc";
+	    $AccountSid = "XXXXXXXXXX";
+	    $AuthToken = "XXXXXXXXX";
 	 
 	    // Step 3: instantiate a new Twilio Rest Client
 	    $client = new Services_Twilio($AccountSid, $AuthToken);
